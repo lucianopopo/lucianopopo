@@ -3,7 +3,7 @@
 ## I'm a Web Developer and musician!
 
 -   💻 I’m currently working on a Java 8 / Spring Boot project at [Nova Tendência][sitenova]!
--   😎 I’m currently learning and working with both back-end (Java) and front-end (React) 🤣
+-   😎 I’m currently learning and working with both back-end (Java) and front-end (React) 🔨
 -   👯 I’m looking for others developers and content creators to colaborate with
 -   🥅 2020 Goals: Create content about web development on YouTube and create my dev blog
 -   🎸 Fun fact: I think I´m a good Rock ´n´ Roll guitar player
