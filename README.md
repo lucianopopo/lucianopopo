@@ -2,10 +2,10 @@
 
 ## I'm a Web Developer and musician!
 
--   💻 I’m currently working on a Java 8 / Spring Boot project at [Nova Tendência][sitenova]!
+-   💻 I’m currently working on a Java / Spring Boot project at [BRQ Soluções em Informática S/A][siteBRQ]!
 -   😎 I’m currently learning and working with both back-end (Java) and front-end (React) 🔨
 -   👯 I’m looking for others developers and content creators to colaborate with
--   🥅 2020 Goals: Create content about web development on YouTube and create my dev blog
+-   🥅 2021 Goals: Learning advanced tecnologies around Java and become fluent in english
 -   🎸 Fun fact: I think I´m a good Rock ´n´ Roll guitar player
 
 ### Connect with me:
@@ -40,7 +40,7 @@
 
 ![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=lucianopopo&show_icons=true&theme=radical)
 
-[sitenova]: https://www.ntendencia.com.br/
+[siteBRQ]: https://www.brq.com/
 [twitter]: https://twitter.com/lucianopopo
 [youtube]: https://www.youtube.com/channel/UC3Ib5mQIqc7sqJXt0mgeKgA
 [instagram]: https://www.instagram.com/lucianopopo/
